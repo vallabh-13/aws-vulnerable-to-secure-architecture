@@ -13,6 +13,18 @@ This project provisions two contrasting AWS environments using Terraform: one in
 
 ---
 
+## 🖼️ Architecture Diagrams
+
+- `diagram-vulnerable`
+  
+  ![alt text](Diagrams/Aws-Secure.png)
+- `diagram-secure`
+  
+
+  ![alt text](Diagrams/Aws-vulnerable.png)
+  
+---
+
 ## 📁 Folder Structure
 
 ```
@@ -63,13 +75,6 @@ aws-vulnerable-to-secure-architecture/
 
 
 ```
----
-
-## 🖼️ Architecture Diagrams
-
-- `diagram-vulnerable`: Shows open security groups, public EC2/RDS, no WAF or Bastion
-- `diagram-secure`: Highlights private subnets, Bastion access, WAF-protected ALB, VPC endpoints
-
 ---
 
 ## ✅ Prerequisites
