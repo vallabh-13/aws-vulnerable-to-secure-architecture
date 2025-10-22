@@ -17,11 +17,11 @@ This project provisions two contrasting AWS environments using Terraform: one in
 
 - `diagram-vulnerable`
   
-  ![alt text](Diagrams/Aws-Secure.png)
+  ![alt text](Diagrams/Aws-vulnerable.png)
+
 - `diagram-secure`
   
-
-  ![alt text](Diagrams/Aws-vulnerable.png)
+  ![alt text](Diagrams/Aws-secure.png)
   
 ---
 
