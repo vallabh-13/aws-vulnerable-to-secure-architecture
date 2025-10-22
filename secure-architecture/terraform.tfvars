@@ -1,4 +1,5 @@
-key_name     = "bhanudas-key"
-ami_id       = "ami-0c55b159cbfafe1f0"  # Replace with your actual AMI
+key_name     = "your-key"
+ami_id       = "ami-xxxxxxxxxxx"  # Replace with your actual AMI
 db_username  = "admin"
-db_password  = "SuperSecure123!"
+db_password  = "your-SuperSecure-passwd"
+
