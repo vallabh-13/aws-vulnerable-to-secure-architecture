@@ -85,7 +85,7 @@ aws-vulnerable-to-secure-architecture/
 - IAM role for EC2 with S3 access (optional)
 - S3 bucket created for secure setup (`secure-app-data-bucket`)
 
-See `prerequisites/` for setup guides.
+See (pre-requisites/Readme.md) for setup guides.
 
 ---
 
