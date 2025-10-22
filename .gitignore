@@ -1,0 +1,18 @@
+# Terraform state and backups
+*.tfstate
+*.tfstate.*
+.terraform/
+crash.log
+*.tfplan
+*.tfvars
+*.auto.tfvars
+
+# Sensitive credentials
+*.pem
+*.key
+*.crt
+
+# Logs and temp files
+*.log
+*.bak
+*.tmp
