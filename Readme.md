@@ -1,4 +1,4 @@
-## 🛡️ AWS Vulnerable-to-Secure Architecture with Terraform
+## 🛡️ AWS Vulnerable-to-Secure Architecture with Terraform (Security Pillar)
 
 ### Overview
 
